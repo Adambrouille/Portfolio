@@ -152,7 +152,7 @@
 }
 
 body {
-  background-image: url(/picture/desktop-1920x1080.png);
+  background-image: url(desktop-1920x1080.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
