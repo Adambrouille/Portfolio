@@ -262,7 +262,7 @@
   }
 }
 body {
-  background-image: url("img.jpg");
+  background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -594,7 +594,7 @@ a:not(:hover) {
 }
 @media only screen and (max-width: 585px) {
   body {
-    background: url(/picture/astronaut-space-planet-4k-phone-wallpaper-44a.jpg);
+    background: url(astronaut-space-planet-4k-phone-wallpaper-44a.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
